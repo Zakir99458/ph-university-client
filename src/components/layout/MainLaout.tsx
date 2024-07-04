@@ -1,10 +1,4 @@
 import { Layout, Menu, MenuProps } from "antd";
-import {
-  UploadOutlined,
-  UserOutlined,
-  VideoCameraOutlined,
-} from "@ant-design/icons";
-import { createElement } from "react";
 
 const { Header, Content, Footer, Sider } = Layout;
 
